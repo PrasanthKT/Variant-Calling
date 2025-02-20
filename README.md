@@ -1,10 +1,13 @@
 # Variant-Calling
 
-### Authors: Prasanth Kumar Thuthika and Tejaswini Repala
+### Authors 
+Prasanth Kumar Thuthika and Tejaswini Repala
 
-### Title: Somatic Variant Analysis in Mouse Glioma Tumor Samples Using Whole Genome Sequencing Data and Genome Analysis Tool Kit (GATK)
+### Title
+Somatic Variant Analysis in Mouse Glioma Tumor Samples Using Whole Genome Sequencing Data and Genome Analysis Tool Kit (GATK)
 
-### Objective: This project involves performing a complete NGS pipeline for variant calling, starting from downloading the raw sequencing data to final variant annotation. Additionally, functional enrichment analysis is conducted to understand the biological significance of the variants identified in two types of mouse glioma tumor samples.
+### Objective
+This project involves performing a complete NGS pipeline for variant calling, starting from downloading the raw sequencing data to final variant annotation. Additionally, functional enrichment analysis is conducted to understand the biological significance of the variants identified in two types of mouse glioma tumor samples.
 
 ### Tools and Dependencies
 1. SRA-Toolkit
